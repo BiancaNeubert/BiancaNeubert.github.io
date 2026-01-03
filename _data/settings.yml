@@ -5,4 +5,4 @@ menu:
 
 
 contacts:
-- {name: 'Bianca Neubert', department: 'Institute of Mathematics', institution: 'Heidelberg University', institution_address: 'INF 205, 69126 Heidelberg', phone: '	+49 6221 54 14185', email: 'neubert@math.uni-heidelberg.de', office: '4/411', image: 'assets/img/contact.jpg'}
+- {name: 'Bianca Neubert', department: 'Institute of Mathematics', institution: 'Heidelberg University', institution_address: 'INF 205, 69126 Heidelberg', phone: '	+49 6221 54 14185', email: 'neubert@math.uni-heidelberg.de', office: '4/411'}
