@@ -1,4 +1,5 @@
 menu:
+- {name: 'pubications', url: '/publications'}
 - {name: 'education', url: '/cv'}
 - {name: 'teaching', url: '/teaching'}
 
