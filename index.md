@@ -7,6 +7,23 @@ I defended my Phd thesis entitled "Nonparametric inference for convolution model
 
 I am interested in nonparametric inference, inference for inverse problems, adaptive testing and quadratic functional estimation for multiplicative convolution and estimation of convoluted densities.
 
-
-contacts:
-- {name: 'Bianca Neubert', department: 'Institute of Mathematics', institution: 'Heidelberg University', institution_address: 'INF 205, 69126 Heidelberg', phone: '	+49 6221 54 14185', email: 'neubert@math.uni-heidelberg.de', office: '4/411'}
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Contact</h3>
+    {% for contact in site.data.settings.contacts %}
+    <div class="row g-5 mb-5">
+      <div class="col-md-6">
+        <h4>{{ contact.name }}</h4>
+        {{ contact.department }}</p>
+        <p>{{ contact.institution }} | {{ contact.institution_address }}</p>
+        <p>Phone: {{ contact.phone }}</p>
+        <p>Email: {{ contact.email }}</p>
+        <p>Office: {{ contact.office }}</p>
+      </div>
+      <div class="col-md-6">
+        
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
