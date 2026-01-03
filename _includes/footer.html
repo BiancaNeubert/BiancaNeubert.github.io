@@ -5,13 +5,11 @@
     <h5 class="fw-bold border-bottom pb-3 mb-5">Contact</h5>
     {% for contact in site.data.settings.contacts %}
     <div class="row g-5 mb-5">
-      <div class="col-md-6">
         {{ contact.department }}</p>
         <p>{{ contact.institution }} | {{ contact.institution_address }}</p>
         <p>Phone: {{ contact.phone }}</p>
         <p>Mail: {{ contact.email }}</p>
         <p>Office: {{ contact.office }}</p>
-      </div>
     </div>
     {% endfor %}
   </div>
