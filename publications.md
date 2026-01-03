@@ -11,5 +11,5 @@ title: "Publications"
 
 <h7> Preprints </h7>
 <ul>
-<li> <a href="https://arxiv.org/abs/2512.01838" target="_blank">Goodness-of-fit testing from observations with multiplicative measurement error</a> </li>, with J. Johannes (2025).
+<li> <a href="https://arxiv.org/abs/2512.01838" target="_blank">Goodness-of-fit testing from observations with multiplicative measurement error</a>, with J. Johannes (2025). </li>
 </ul>
