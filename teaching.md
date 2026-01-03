@@ -18,7 +18,7 @@ title: "Teaching"
 
 <h5>Exercise classes </h5>
 <ul>
+    <li> Statistical Methods I and II (B.Sc. Economics), Humboldt University Berlin, 2021-2022. </li>
   <li> Statistical Methods I (B.Sc. Mathematics), Heidelberg University, Summer semester 2019.</li>
   <li> Linear Algebra (B.Sc. Engineering), Mongolian University of Science and Technology, September - October 2017. </li>
-  <li> Statistical Methods I and II (B.Sc. Economics), Humboldt University Berlin, 2021-2022. </li>
 </ul>
