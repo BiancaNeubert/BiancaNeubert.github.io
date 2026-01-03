@@ -1,5 +1,5 @@
 menu:
-- {name: 'cv', url: '/cv'}
+- {name: 'education', url: '/cv'}
 - {name: 'teaching', url: '/teaching'}
 
 contacts:
